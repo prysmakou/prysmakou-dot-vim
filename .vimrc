@@ -3,6 +3,7 @@ filetype plugin indent off
 filetype plugin indent on
 filetype plugin on
 let g:airline_powerline_fonts = 1
+set backspace=indent,eol,start
 set ts=4
 set expandtab
 set shiftwidth=4
